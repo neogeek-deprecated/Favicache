@@ -6,7 +6,7 @@
  Plugin URI: http://neo-geek.net/favicache/
  Description: Retrieves and stores favicons in a local cache. This makes for faster page load times and lessens the strain on the server in which the favicon was originally retrieved from.
  Version: 2.0
- Compatibility: 3.0, 3.1, 3.1.3, 3.2, 3.2.1
+ Compatibility: 3.0, 3.1, 3.1.3, 3.2, 3.2.1, 3.3, 3.3.1
  Author: Neo Geek
  Author URI: http://neo-geek.net/
  

@@ -32,7 +32,7 @@ Favicache downloads the favicons as is, without resizing them. To make sure they
 	.widget_links a img {
 		width: 16px;
 		height: 16px;
-		vertical-align: bottom;
+		vertical-align: middle;
 	}
 
 http://neo-geek.net/images/work_favicache_theme.jpg
@@ -40,4 +40,4 @@ http://neo-geek.net/images/work_favicache_theme.jpg
 Compatibility
 -------------
 
-Wordpress: 3.0, 3.1, 3.1.3, 3.2, 3.2.1
+Wordpress: 3.0, 3.1, 3.1.3, 3.2, 3.2.1, 3.3, 3.3.1

@@ -16,7 +16,7 @@ Usage
 
 Once Favicache is installed and activated, ensure that the settings for the links widget are setup as indicated in the screenshot below.
 
-http://neo-geek.net/images/work_favicache_plugin_settings.jpg
+![Plugin Settings](http://neo-geek.net/images/work_favicache_plugin_settings.jpg)
 
 Then add or edit an existing link causing Favicache to retrieve (if available) and cache the site's favicon. It then sets the site's image to the cached version of that site's favicon.
 
@@ -35,7 +35,7 @@ Favicache downloads the favicons as is, without resizing them. To make sure they
 		vertical-align: middle;
 	}
 
-http://neo-geek.net/images/work_favicache_theme.jpg
+![Theme](http://neo-geek.net/images/work_favicache_theme.jpg)
 
 Compatibility
 -------------
